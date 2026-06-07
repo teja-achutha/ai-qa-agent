@@ -4,6 +4,8 @@ class PlannerAgent:
 
         return [
             {
-                "test_case": f"Validate {requirement}"
+                "id": 1,
+                "title": f"Validate {requirement}",
+                "expected_result": f"{requirement} should work successfully"
             }
         ]

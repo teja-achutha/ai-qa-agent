@@ -1,7 +1,6 @@
 # AI QA Agent
 
-Multi-Agent QA Automation System
-
+Worked on Reviewer Agent and completed AI QA pipeline structure.
 ## Objective
 
 Build an AI-powered QA automation platform.
